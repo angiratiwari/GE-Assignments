@@ -1,5 +1,6 @@
-import java.util.Scanner;
+package Day_1_Assn;
 
+import java.util.Scanner;
 public class Problem_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -30,3 +31,4 @@ public class Problem_1 {
         System.out.println("Percentage of Tails: " + tailPercent + "%");
     }
 }
+
